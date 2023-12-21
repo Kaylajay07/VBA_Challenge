@@ -3,4 +3,6 @@ In this project, I used VBA scripting to analyze generated stock market data. An
 
 
 
-# Note: I did have help from 2 tutors to create my code. 
+
+
+Note: I did have help from 2 tutors to create my code. 
